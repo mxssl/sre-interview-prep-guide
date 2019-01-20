@@ -4,7 +4,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Basics
 
-* [What happens when...](https://github.com/alex/what-happens-when)
+* [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 * [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 
 ## Linux
