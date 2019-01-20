@@ -104,4 +104,4 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Courses
 
-[Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
+* [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
