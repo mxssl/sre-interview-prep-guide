@@ -21,9 +21,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 * [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 * [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
-* [Which Linux File System Should You Use?](https://www.howtogeek.com/howto/33552/htg-explains-which-linux-file-system-should-you-choose)
 * [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
-* [What is the difference between Linux filesystems ext2, ext3, ext4, and ext5?](https://www.quora.com/What-is-the-difference-between-Linux-filesystems-ext2-ext3-ext4-and-ext5)
 
 ### Kernel
 
