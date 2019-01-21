@@ -41,6 +41,11 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 * [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
 
+## Containers
+
+* [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+* [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
+
 ## Programming
 
 ### Go (Golang)
