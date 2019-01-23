@@ -36,6 +36,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Networking
 
+* [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 * [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
 
@@ -104,6 +105,10 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Linux Kernel Development (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
 * [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
 * [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
+
+### Networking
+
+* [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
 
 ## Courses
 
