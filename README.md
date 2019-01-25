@@ -97,8 +97,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### SRE books
 
-* [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
-* [The Site Reliability Workbook](https://books.google.ru/books?id=fElmDwAAQBAJ)
+* [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
+* [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 * [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
 
 ### Linux
