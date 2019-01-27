@@ -15,7 +15,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 * [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
 
-### Filesystems
+### Filesystem
 
 * [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
 * [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
@@ -47,6 +47,11 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Containers Patterns](https://l0rd.github.io/containerspatterns)
 * [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Docker Container Anti Patterns](http://blog.arungupta.me/docker-container-anti-patterns)
+
+## Infrastructure as code / Configuration management
+
+* [Terraform](https://learn.hashicorp.com/terraform)
+* [Ansible](https://github.com/leucos/ansible-tuto)
 
 ## CI/CD
 
