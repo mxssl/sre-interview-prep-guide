@@ -44,6 +44,12 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 * [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
 * [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
+* [Containers Patterns](https://l0rd.github.io/containerspatterns)
+* [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+
+## CI/CD
+
+* [Pattern and anti-pattern CI/CD](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd)
 
 ## Programming
 
