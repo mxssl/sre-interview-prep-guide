@@ -38,7 +38,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 * [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
-* Software Networking and Interfaces on Linux: [Part 1](https://youtu.be/EnAZB8GI97c) | [Part 2](https://youtu.be/5WNEpE1vLvc)
+* [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 * [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 * [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
 
