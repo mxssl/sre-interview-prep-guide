@@ -14,6 +14,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 * [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 * [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
+* [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
 
 ### Filesystem
 
