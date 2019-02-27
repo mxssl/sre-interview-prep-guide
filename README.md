@@ -68,6 +68,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## CI/CD
 
 * [Pattern and anti-pattern CI/CD](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd)
+* [Six Strategies for Application Deployment](https://medium.com/@joaogabriellima/six-strategies-for-application-deployment-351579f7aa62)
 
 ## Programming
 
