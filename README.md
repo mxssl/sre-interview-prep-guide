@@ -128,6 +128,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 * [SRE Interviews in Silicon Valley](http://blog.marc-seeger.de/2015/05/01/sre-interviews-in-silicon-valley)
 * [Preparing the SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)
+* [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre)
 
 ## Books
 
