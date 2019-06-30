@@ -74,6 +74,10 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Pattern and anti-pattern CI/CD](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd)
 * [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
 
+## Clouds
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+
 ## Programming
 
 ### Go (Golang)
