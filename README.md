@@ -127,6 +127,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
 * [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
 * [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
+* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 
 ### Blogposts
 
