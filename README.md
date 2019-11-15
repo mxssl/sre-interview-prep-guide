@@ -63,6 +63,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
 * [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 * [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+* [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
 
 ## Infrastructure as code / Configuration management
 
