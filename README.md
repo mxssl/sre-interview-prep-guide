@@ -137,6 +137,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Preparing the SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre)
 * [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
+* [Path to Site Reliability Management](https://danrl.com/blog/2019/path-to-srm)
 
 ## Books
 
