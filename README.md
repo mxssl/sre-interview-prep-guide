@@ -4,8 +4,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Basics
 
-* [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
-* [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+* Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+* Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
 
@@ -115,6 +115,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Incident Response](https://response.pagerduty.com)
 * [Postmortems](https://postmortems.pagerduty.com)
 * [Runbooks](https://www.transposit.com/blog/2019.11.14-what-makes-a-good-runbook)
+* [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
+* [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
 
 ## Interview
 
