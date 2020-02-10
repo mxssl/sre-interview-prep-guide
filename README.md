@@ -133,6 +133,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
 * [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 * [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
+* [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 
 ### Blogposts
 
