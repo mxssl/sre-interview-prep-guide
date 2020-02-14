@@ -99,7 +99,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## System design
 
-* The most useful course: [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
