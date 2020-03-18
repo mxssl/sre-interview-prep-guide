@@ -72,6 +72,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## CI/CD
 
+* [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 * [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
 
 ## Clouds
