@@ -74,6 +74,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## CI/CD
 
+* [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
 * [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 * [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
 
