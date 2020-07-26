@@ -66,6 +66,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 * [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
+* [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model)
 
 ## Infrastructure as code / Configuration management
 
