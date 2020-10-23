@@ -95,7 +95,6 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Go Design Patterns](https://github.com/tmrts/go-patterns)
 * [Go Memory Management](https://povilasv.me/go-memory-management)
 
-
 ### Big O Notation, Algorithms and Data Structures
 
 * [AlgoExperts](https://www.algoexpert.io)
@@ -159,6 +158,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 * [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
 * [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf)
+* [Implementing Service Level Objectives](https://learning.oreilly.com/library/view/implementing-service-level/9781492076803)
 
 ### Linux
 
