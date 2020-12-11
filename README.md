@@ -173,6 +173,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ### Troubleshooting and Performance
 
 * [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
+* [Systems Performance, 2nd Edition](https://www.informit.com/store/systems-performance-9780136820154?ranMID=24808)
 
 ## Courses
 
