@@ -67,6 +67,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
 * [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model)
+* [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 
 ## Infrastructure as code / Configuration management
 
