@@ -166,7 +166,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 * [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
-* [Building Secure and Reliable Systems](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf)
+* [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems)
 * [Implementing Service Level Objectives](https://learning.oreilly.com/library/view/implementing-service-level/9781492076803)
 
 ### Linux
