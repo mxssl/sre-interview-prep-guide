@@ -163,8 +163,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### SRE books
 
-* [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
-* [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+* [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents)
+* [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents)
 * [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
 * [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems)
 * [Implementing Service Level Objectives](https://learning.oreilly.com/library/view/implementing-service-level/9781492076803)
