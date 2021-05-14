@@ -130,6 +130,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Runbooks](https://www.transposit.com/blog/2019.11.14-what-makes-a-good-runbook)
 - [ ] [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
 - [ ] [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
+- [ ] [SRE at Google: Our complete list of CRE life lessons](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
 
 ## Interview
 
