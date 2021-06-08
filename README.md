@@ -1,5 +1,7 @@
 # Site Reliability Engineer (SRE) Interview Preparation Guide
 
+## My fork has actual notes on the subjects. Check the 'Notes' dir and the sub dir for each topic.
+
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
 ## Basics
