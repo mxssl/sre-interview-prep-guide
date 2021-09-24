@@ -122,6 +122,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Monitoring
 
 - [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
+- [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 
 ## Processes
 
