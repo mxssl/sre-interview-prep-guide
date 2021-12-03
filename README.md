@@ -57,6 +57,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
 - [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
 - [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+- [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
 
 ## Kubernetes
 
