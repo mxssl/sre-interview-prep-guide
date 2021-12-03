@@ -118,7 +118,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
-- [ ] [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 
