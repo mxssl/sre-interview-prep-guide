@@ -163,7 +163,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre)
 - [ ] [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
 - [ ] [Path to Site Reliability Management](https://danrl.com/srm)
-- [ ] [Becoming a Site Reliability Engineer](https://tik.dev/becoming-an-sre)
+- [ ] [Becoming a Site Reliability Engineer](https://www.tik.dev/blog/becoming-an-sre)
 
 ## Books
 
