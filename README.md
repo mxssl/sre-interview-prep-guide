@@ -141,7 +141,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Resume
 
-- [] [SRE Complete Resume Writing Guide](https://rootly.com/blog/sre-complete-resume-writing-guide)
+- [ ] [SRE Complete Resume Writing Guide](https://rootly.com/blog/sre-complete-resume-writing-guide)
 
 ## Interview
 
