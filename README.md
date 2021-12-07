@@ -139,6 +139,10 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
 - [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
 
+## Resume
+
+- [] [SRE Complete Resume Writing Guide](https://rootly.com/blog/sre-complete-resume-writing-guide)
+
 ## Interview
 
 ### SRE interview process
