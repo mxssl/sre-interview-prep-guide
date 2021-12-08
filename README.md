@@ -168,6 +168,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
 - [ ] [Path to Site Reliability Management](https://danrl.com/srm)
 - [ ] [Becoming a Site Reliability Engineer](https://www.tik.dev/blog/becoming-an-sre)
+- [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 
 ## Books
 
