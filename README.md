@@ -74,6 +74,10 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 
+## Databases
+
+- [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+
 ## CI/CD
 
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
