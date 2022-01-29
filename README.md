@@ -127,6 +127,14 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 
+### System design examples
+
+- [ ] [Designing WhatsApp](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
+- [ ] [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+- [ ] [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
+- [ ] [Designing Instagram](http://highscalability.com/blog/2022/1/11/designing-instagram.html)
+- [ ] [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
+
 ## Monitoring
 
 - [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
