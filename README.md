@@ -12,8 +12,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ### Boot Process
 
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
-- [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
-- [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
+- [ ] [What happens when we turn on the computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
+- [ ] [What happens when we turn on the computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
 - [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
 
 ### Filesystem
@@ -26,7 +26,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### Kernel
 
-- [ ] [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
+- [ ] [Explain the basics of the Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
 - [ ] [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
 - [ ] [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html)
 - [ ] [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html)
