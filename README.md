@@ -78,6 +78,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Data Replication in DBMS](https://www.geeksforgeeks.org/data-replication-in-dbms)
+- [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 
 ## CI/CD
 
