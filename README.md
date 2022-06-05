@@ -76,6 +76,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Databases
 
+- [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
