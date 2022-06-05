@@ -76,9 +76,11 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Databases
 
+- [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
+- [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Data Replication in DBMS](https://www.geeksforgeeks.org/data-replication-in-dbms)
-- [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 
 ## CI/CD
 
