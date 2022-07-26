@@ -104,6 +104,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 - [ ] [Python Basics](https://pythonbasics.org/)
 - [ ] [Python For Everyone](https://www.py4e.com/)
+- [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
 
 
 ### Go (Golang)
