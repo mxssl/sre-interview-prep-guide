@@ -182,6 +182,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+- [ ] [DevOps Interview Questions](https://www.interviewbit.com/devops-interview-questions/)
 
 ### Blogposts
 
