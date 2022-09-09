@@ -162,6 +162,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Incident Management vs. Incident Response - What's the Difference?](https://rootly.io/blog/incident-management-vs-incident-response-what-s-the-difference)
 - [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
 - [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
+- [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
 
 ## Resume
 
