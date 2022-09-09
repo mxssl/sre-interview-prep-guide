@@ -85,6 +85,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Data Replication in DBMS](https://www.geeksforgeeks.org/data-replication-in-dbms)
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
+- [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 
 ## CI/CD
 
