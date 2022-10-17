@@ -46,6 +46,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [strace](https://www.dedoimedo.com/computers/strace.html)
 - [ ] [lsof](https://www.dedoimedo.com/computers/lsof.html)
 - [ ] [Linux system debugging](https://www.dedoimedo.com/computers/linux-system-debugging-super.html)
+- [ ] [SaaS where users can test their Linux troubleshooting skills](https://sadservers.com)
 
 ## Networking
 
