@@ -166,6 +166,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
 - [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
 - [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
+- [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
 
 ## Resume
 
