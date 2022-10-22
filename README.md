@@ -77,6 +77,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Infrastructure as code / Configuration management
 
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
+- [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 
 ## Databases
