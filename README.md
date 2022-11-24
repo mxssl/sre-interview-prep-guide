@@ -79,6 +79,7 @@ Contributions are always welcome!
 - [ ] [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [ ] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
+- [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 
 ## Infrastructure as code / Configuration management
 
