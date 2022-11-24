@@ -120,7 +120,6 @@ Contributions are always welcome!
 - [ ] [Python For Everyone](https://www.py4e.com/)
 - [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
 
-
 ### Go (Golang)
 
 - [ ] [A tour of Go](https://tour.golang.org)
@@ -130,6 +129,9 @@ Contributions are always welcome!
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
 - [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
+- [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
+- [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)
+- [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)
 
 ### Big O Notation, Algorithms and Data Structures
 
