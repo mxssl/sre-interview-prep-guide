@@ -124,6 +124,7 @@ Contributions are always welcome!
 
 - [ ] [A tour of Go](https://tour.golang.org)
 - [ ] [Go by Example](https://gobyexample.com)
+- [ ] [Go Tutorials & Examples](https://gosamples.dev)
 - [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [ ] [Getting up and running with Go](http://www.golangprograms.com)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
