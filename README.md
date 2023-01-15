@@ -133,6 +133,7 @@ Contributions are always welcome!
 - [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
 - [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)
 - [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)
+- [ ] [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
 
 ### Big O Notation, Algorithms and Data Structures
 
