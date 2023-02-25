@@ -45,6 +45,7 @@ Contributions are always welcome!
 - [ ] [Concurrency and Race Conditions](http://learnlinuxconcepts.blogspot.com/2014/07/concurrency-and-race-conditions.html)
 - [ ] [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition)
 - [ ] [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
+- [ ] [Book about the linux kernel](https://0xax.gitbooks.io/linux-insides/content)
 
 ### Troubleshooting
 
