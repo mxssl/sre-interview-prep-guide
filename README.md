@@ -196,6 +196,8 @@ Contributions are always welcome!
 - [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
 - [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
 - [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
+- [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
+- [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
 
 ## Resume
 
