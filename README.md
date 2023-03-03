@@ -83,6 +83,7 @@ Contributions are always welcome!
 - [ ] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 - [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
+- [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
 
 ## Infrastructure as code / Configuration management
 
