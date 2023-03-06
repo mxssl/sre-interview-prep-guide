@@ -200,6 +200,7 @@ Contributions are always welcome!
 - [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
 - [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
 - [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
+- [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
 
 ## Resume
 
