@@ -224,6 +224,7 @@ Contributions are always welcome!
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+- [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
 ### Blogposts
 
