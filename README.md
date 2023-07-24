@@ -203,6 +203,7 @@ Contributions are always welcome!
 - [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
 - [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
 - [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
+- [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
 
 ## Resume
 
