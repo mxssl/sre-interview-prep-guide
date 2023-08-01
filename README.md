@@ -206,6 +206,7 @@ Contributions are always welcome!
 - [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
 - [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
+- [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
 
 ## Resume
 
