@@ -207,6 +207,7 @@ Contributions are always welcome!
 - [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
 - [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
+- [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
 
 ## Resume
 
