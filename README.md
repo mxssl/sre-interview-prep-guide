@@ -153,6 +153,7 @@ Contributions are always welcome!
 ## System design
 
 - [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
+- [ ] [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
