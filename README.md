@@ -154,7 +154,7 @@ Contributions are always welcome!
 
 - [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/systems/product)
 - [ ] [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
-- [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
