@@ -165,6 +165,7 @@ Contributions are always welcome!
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 - [ ] [Failover](https://blog.alexewerlof.com/p/failover)
 - [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
+- [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 
 ### System design examples
 
