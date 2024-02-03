@@ -112,6 +112,7 @@ Contributions are always welcome!
 
 ## CI/CD
 
+- [ ] [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
 - [ ] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 - [ ] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
