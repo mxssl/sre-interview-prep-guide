@@ -215,6 +215,7 @@ Contributions are always welcome!
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
 - [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
 - [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
+- [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
 
 ## Resume
 
