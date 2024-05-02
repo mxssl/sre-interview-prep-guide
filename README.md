@@ -251,6 +251,8 @@ Contributions are always welcome!
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
 - [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
+- [ ] [DevOps Career Path](https://www.scaler.com/blog/devops-career-path/)
+- [ ] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
 
 ## Books
 
