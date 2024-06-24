@@ -219,6 +219,7 @@ Contributions are always welcome!
 - [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
 - [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
 - [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
+- [ ] [Things That Makes a Good Site Reliability Engineer](https://reliabilityengineering.substack.com/p/things-that-makes-a-good-site-reliability)
 
 ## Resume
 
