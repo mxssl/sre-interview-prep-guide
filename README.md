@@ -181,6 +181,7 @@ Contributions are always welcome!
 
 ## Monitoring
 
+- [ ] [Implementing SLOs](https://sre.google/workbook/implementing-slos/)
 - [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 - [ ] [How NOT to Measure Latency](https://youtu.be/lJ8ydIuPFeU)
 - [ ] [The four Golden Signals of Kubernetes monitoring](https://sysdig.com/blog/golden-signals-kubernetes)
