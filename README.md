@@ -112,6 +112,7 @@ Contributions are always welcome!
 - [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
+- [ ] [Kafka 101](https://highscalability.com/untitled-2)
 
 ## CI/CD
 
