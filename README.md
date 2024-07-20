@@ -49,6 +49,7 @@ Contributions are always welcome!
 - [ ] [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition)
 - [ ] [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
 - [ ] [Book about the linux kernel](https://0xax.gitbooks.io/linux-insides/content)
+- [ ] [Processes in Linux - Everything You Need to Know](https://reliabilityengineering.substack.com/p/everything-you-need-to-know-about)
 
 ### Troubleshooting
 
