@@ -99,6 +99,7 @@ Contributions are always welcome!
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 - [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
 - [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
+- [ ] [Terraform Roadmap](https://roadmap.sh/terraform)
 
 ## Databases
 
