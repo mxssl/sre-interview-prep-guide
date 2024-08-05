@@ -133,6 +133,10 @@ Contributions are always welcome!
 
 ## Programming
 
+### Git
+
+- [ ] [Useful git commands for SRE and DevOps engineers](https://reliabilityengineering.substack.com/p/useful-git-commands-for-sre-and-devops)
+
 ### Python
 
 - [ ] [Python Basics](https://pythonbasics.org/)
