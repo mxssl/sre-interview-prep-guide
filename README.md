@@ -79,6 +79,7 @@ Contributions are always welcome!
 
 ## Kubernetes
 
+- [ ] [Kubenetes Architecture Simplified](https://www.youtube.com/watch?v=UnpOVSfgbyA&ab_channel=TheCloudPilot)
 - [ ] [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
 - [ ] [Demystifying the Kubernetes Iceberg](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1)
 - [ ] [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
@@ -127,6 +128,7 @@ Contributions are always welcome!
 
 ## Clouds
 
+- [ ] [GCP Course for Beginners](https://www.youtube.com/watch?v=uWpkaeozTCA&ab_channel=TheCloudPilot)
 - [ ] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
