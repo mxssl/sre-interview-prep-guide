@@ -210,7 +210,7 @@ Contributions are always welcome!
 - [ ] [The practical guide to incident management](https://incident.io/guide)
 - [ ] [Incident Response](https://response.pagerduty.com)
 - [ ] [Postmortems](https://postmortems.pagerduty.com)
-- [ ] [Runbooks](https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
+- [ ] [Runbooks](https://web.archive.org/web/20231005015754/https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
 - [ ] [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
 - [ ] [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
 - [ ] [SRE at Google: Our complete list of CRE life lessons](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
