@@ -5,7 +5,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Contributing
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-Contributions are always welcome!
+Contributions are always welcome!!
 
 ## Basics
 
