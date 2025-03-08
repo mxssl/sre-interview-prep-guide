@@ -93,6 +93,7 @@ Contributions are always welcome!
 - [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
 - [ ] [Kubernetes YAML tips and tricks](https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81)
 - [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
+- [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnk8s.io/kubernetes-services-and-load-balancing)
 
 ## Infrastructure as code / Configuration management
 
