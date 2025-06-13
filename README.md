@@ -113,7 +113,7 @@ Contributions are always welcome!
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
-- [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
+- [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://www.ml4devs.com/en/articles/datastore-choices-sql-vs-nosql-database/)
 - [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
