@@ -18,6 +18,7 @@ Contributions are always welcome!
 - [ ] [What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons)
 - [ ] [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre)
 - [ ] [Linux Internals workshop - Google TechTalks](https://www.youtube.com/playlist?list=PLSIUOFhnxEiC3YTdxwqZqgEY5imVL8U8J)
+- [ ] [Learn Linux with Hands-on Labs](https://labex.io/learn/linux)
 
 ### Boot Process
 
@@ -94,6 +95,7 @@ Contributions are always welcome!
 - [ ] [Kubernetes YAML tips and tricks](https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81)
 - [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
 - [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnkube.com/kubernetes-services-and-load-balancing)
+- [ ] [Learn Kubernetes with Hands-on Labs](https://labex.io/learn/kubernetes)
 
 ## Infrastructure as code / Configuration management
 
