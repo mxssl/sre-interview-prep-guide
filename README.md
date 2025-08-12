@@ -94,6 +94,7 @@ Contributions are always welcome!
 - [ ] [Kubernetes YAML tips and tricks](https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81)
 - [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
 - [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnkube.com/kubernetes-services-and-load-balancing)
+- [ ] [From Linux Primitives to Kubernetes Security Contexts](https://learnkube.com/security-contexts)
 
 ## Infrastructure as code / Configuration management
 
