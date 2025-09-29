@@ -11,6 +11,7 @@ Contributions are always welcome!
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+- [ ] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
 
 ## Linux
 
@@ -119,6 +120,7 @@ Contributions are always welcome!
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
 - [ ] [Kafka 101](https://highscalability.com/untitled-2)
+- [ ] [Database Sharding](https://planetscale.com/blog/database-sharding)
 
 ## CI/CD
 
@@ -182,6 +184,7 @@ Contributions are always welcome!
 - [ ] [Failover](https://blog.alexewerlof.com/p/failover)
 - [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
 - [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
+- [ ] [Caching](https://planetscale.com/blog/caching)
 
 ### System design examples
 
