@@ -169,6 +169,7 @@ Contributions are always welcome!
 - [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
 - [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
 - [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
+- [ ] [Big O](https://samwho.dev/big-o)
 
 ## System design
 
@@ -185,6 +186,7 @@ Contributions are always welcome!
 - [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
 - [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 - [ ] [Caching](https://planetscale.com/blog/caching)
+- [ ] [Load Balancing](https://samwho.dev/load-balancing)
 
 ### System design examples
 
