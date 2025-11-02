@@ -187,6 +187,7 @@ Contributions are always welcome!
 - [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 - [ ] [Caching](https://planetscale.com/blog/caching)
 - [ ] [Load Balancing](https://samwho.dev/load-balancing)
+- [ ] [The principles of extreme fault tolerance](https://planetscale.com/blog/the-principles-of-extreme-fault-tolerance)
 
 ### System design examples
 
