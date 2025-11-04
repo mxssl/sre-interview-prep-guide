@@ -147,6 +147,7 @@ Contributions are always welcome!
 - [ ] [Python Basics](https://pythonbasics.org/)
 - [ ] [Python For Everyone](https://www.py4e.com/)
 - [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
+- [ ] [Top 20+ Python Developer Skills](https://www.scaler.com/blog/python-developer-skills/)
 
 ### Go (Golang)
 
@@ -261,6 +262,8 @@ Contributions are always welcome!
 - [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 - [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
+- [ ] [DevOps Engineer Job Description](https://www.scaler.com/blog/devops-engineer-job-description/#devops-engineer-job-description)
+
 
 ### Blogposts
 
