@@ -262,6 +262,10 @@ Contributions are always welcome!
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 - [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
+### Mock Interviews
+
+- [ ] [SRE Mock interviews at MeetAPro](https://www.meetapro.com/mock-interviews/category/sre)
+
 ### Blogposts
 
 - [ ] [SRE Interviews in Silicon Valley](http://blog.marc-seeger.de/2015/05/01/sre-interviews-in-silicon-valley)
