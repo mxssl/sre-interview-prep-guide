@@ -97,6 +97,8 @@ Contributions are always welcome!
 - [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
 - [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnkube.com/kubernetes-services-and-load-balancing)
 - [ ] [From Linux Primitives to Kubernetes Security Contexts](https://learnkube.com/security-contexts)
+- [ ] [Kubernetes Monitoring: A Complete Guide](https://middleware.io/blog/kubernetes-monitoring/)
+
 
 ## Infrastructure as code / Configuration management
 
