@@ -98,6 +98,7 @@ Contributions are always welcome!
 - [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnkube.com/kubernetes-services-and-load-balancing)
 - [ ] [From Linux Primitives to Kubernetes Security Contexts](https://learnkube.com/security-contexts)
 - [ ] [Server-side apply: what happens when you run kubectl apply](https://learnkube.com/server-side-apply-kubernetes)
+- [ ] [What happens inside the Kubernetes API server?](https://learnkube.com/kubernetes-api-explained)
 
 ## Infrastructure as code / Configuration management
 
